@@ -42,8 +42,9 @@ export default {
   font-size: 14px;
   border-top: 1px solid #eceff1;
   border-bottom: 1px solid #eceff1;
-  height: 76px;
+  min-height: 76px;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-evenly;
   align-items: center;
   .catalog {

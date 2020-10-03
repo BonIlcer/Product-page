@@ -20,9 +20,10 @@
 <style lang="scss" scoped>
 .navbar {
   font-size: 12px;
-  height: 32px;
+  min-height: 32px;
   margin: 0px 80px;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   color: #708598;
   .right,
