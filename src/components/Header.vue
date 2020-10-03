@@ -1,5 +1,11 @@
 <template>
-  <div>Header</div>
+  <div>
+    <div class="logo">
+      <img src="@/assets/logo.svg" alt="company logo" />
+    </div>
+
+    catalog input-search cart-list? user-avatar
+  </div>
 </template>
 
 <style lang="scss" scoped>
