@@ -11,6 +11,7 @@
       v-bind:class="'catalog'"
     />
     <!-- input-search -->
+    <AutocompletedInput />
 
     <!-- list -->
     <ButtonWithImg
@@ -25,11 +26,13 @@
 
 <script>
 import ButtonWithImg from "@/components/ButtonWithImg";
+import AutocompletedInput from "@/components/AutocompletedInput";
 
 export default {
   name: "page-header",
   components: {
     ButtonWithImg,
+    AutocompletedInput,
   },
 };
 </script>
