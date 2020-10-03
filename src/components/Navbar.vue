@@ -19,6 +19,7 @@
 
 <style lang="scss" scoped>
 .navbar {
+  font-size: 12px;
   height: 32px;
   margin: 0px 80px;
   display: flex;
