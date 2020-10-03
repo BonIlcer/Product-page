@@ -4,8 +4,25 @@
 
 ## Demo
 [Online demo](https://goofy-banach-a8c7af.netlify.app/) is available!
-![Preview](https://i.imgur.com/S4RJBU7.png)
+![Preview](https://i.imgur.com/eZPvG0s.png)
 
+## Suggestion list
+```
+items = [
+      "A product",
+      "Another product",
+      "B product",
+      "Not product",
+      "Продукт А",
+      "Продукт Б",
+      "Не продукт",
+      "Еще один не продукт",
+      "А Дополнение",
+      "Б Дополнение",
+      "Вв",
+      "Bb",
+];
+```
 ## Project setup
 ```
 npm install
